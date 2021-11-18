@@ -1,7 +1,5 @@
 # djangoURLshortenerProject
 
----
-
 Project "djangoURLshortenerProject" is needed for:
 1. Creating short URL for inputted long URL:
 
